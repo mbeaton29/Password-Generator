@@ -147,7 +147,6 @@ button[disabled] {
 }
 
 #backgroundColor {
-  background-image: url("/img/Screenshot\ \(90\).png");
   background-repeat: none;
   background-position: center;
   background-size: cover;
